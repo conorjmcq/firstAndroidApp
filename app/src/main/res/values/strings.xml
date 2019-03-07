@@ -5,4 +5,5 @@
     <string name="count_button">COUNT</string>
     <string name="random_button">RANDOM</string>
     <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="barcode_hint">Scan barcode ..</string>
 </resources>
